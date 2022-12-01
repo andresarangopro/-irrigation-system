@@ -1,5 +1,8 @@
 {
     "states":[
         {"irrigation":"on"}
-    ]
+    ],
+    "test":{
+        "irrigation":"on"
+    }
 }

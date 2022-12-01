@@ -1,3 +1,5 @@
 {
-    "state":"on"
+    "states":[
+        {"irrigation":"on"}
+    ]
 }

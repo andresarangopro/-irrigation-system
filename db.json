@@ -3,6 +3,7 @@
         {"irrigation":"on"}
     ],
     "test":{
-        "irrigation":"on"
+        "irrigation":"on",
+        "level":1.45
     }
 }

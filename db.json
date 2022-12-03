@@ -2,8 +2,10 @@
     "states":[
         {"irrigation":"on"}
     ],
-    "test":{
-        "irrigation":"on",
-        "level":1.45
-    }
+    "test":[
+        {
+            "irrigation":"on",
+            "level":1.45
+        }   
+       ]
 }

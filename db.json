@@ -2,9 +2,9 @@
     "states":[
         {"irrigation":"on"}
     ],
-    "test":[
+    "test":
         {
             "2":0
         }   
-       ]
+       
 }

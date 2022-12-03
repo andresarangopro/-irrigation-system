@@ -4,8 +4,7 @@
     ],
     "test":[
         {
-            "irrigation":"on",
-            "level":1.45
+            "2":0
         }   
        ]
 }
